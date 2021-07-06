@@ -1,6 +1,6 @@
 name: chinese_cities
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
+description: A pure Dart libraries include chinese cities base on http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020.
+version: 0.0.1
 homepage: https://github.com/laiiihz/chinese_cities
 
 environment:
